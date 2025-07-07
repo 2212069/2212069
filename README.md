@@ -23,7 +23,6 @@ I’m passionate about **Artificial Intelligence, Web Development**. I love solv
 ## 🤝 Let's Collaborate!  
 💞 I'm open to **collaborating** on **open-source projects** related to AI & web development.  
 
-📫 **Reach me at:** saburroshan@gmail.com
-⚡ **Fun fact:** I love debugging more than coding! (Okay, maybe just a little 🤭)  
+📫 **Reach me at:** saburroshan@gmail.com  
 
-🚀 **Let’s build something amazing together!**  
+
